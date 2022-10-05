@@ -4,6 +4,8 @@
     "module": "commonjs",
     "strict": true,
     "outDir": "./dist",
-    "preserveConstEnums": true
+    "preserveConstEnums": true,
+    "lib": ["dom", "es6"],
+    "listFiles": true,
   }
 }
